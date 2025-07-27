@@ -41,3 +41,11 @@ int main()
 }
 
 
+/* Info related to this programm 
+
+1. Binary search can apply on sorted array
+2. k= n/2^k and it will become 1 at the end so n=2^k => logn =k (Time complexity)
+ 
+ */ 
+
+
